@@ -1,0 +1,1 @@
+![Alt-текст](/img/Photo_md.jpg "Орк")
